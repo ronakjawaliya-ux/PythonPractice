@@ -10,28 +10,37 @@ This repository documents my journey of learning Python programming. I regularly
 
 - ✅ Basics
 - ✅ Variables
+- ✅ Data Types
 - ✅ Type Casting
 - ✅ User Input
+- ✅ Operators
 - ✅ String Methods
-- ✅ String Slicing
+- ✅ String Slicing (Indexing)
 - ✅ Math Functions
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
+- ✅ Dictionaries
+- ✅ Conditional Statements (if, elif, else)
+- ✅ Match Case
+- ✅ Loops (for & while)
+- ✅ break, continue & pass
+- ✅ Functions
+- ✅ Function Arguments
+- ✅ Variable Scope (Local & Global)
 
 ---
 
 ## 🚀 Upcoming Topics
 
-- ⏳ Operators
-- ⏳ Conditional Statements (if, elif, else)
-- ⏳ Loops
-- ⏳ Functions
-- ⏳ Lists
-- ⏳ Tuples
-- ⏳ Sets
-- ⏳ Dictionaries
+- ⏳ Lambda Functions
+- ⏳ Recursion
 - ⏳ File Handling
 - ⏳ Exception Handling
 - ⏳ Object-Oriented Programming (OOP)
 - ⏳ Modules & Packages
+- ⏳ Virtual Environment (venv)
+- ⏳ Regular Expressions
 - ⏳ Mini Projects
 
 ---
@@ -77,6 +86,12 @@ PythonPractice/
 - PyCharm
 - Git
 - GitHub
+
+---
+
+## 📈 Learning Progress
+
+**Course Progress:** ~35–40% Complete ✅
 
 ---
 
