@@ -26,7 +26,7 @@ print(add(3,4,5))
 full_name = lambda first_name, last_name: first_name+" "+last_name
 print(full_name("Ronak","Jawalia"))
 
-# for checking age:
+# for checking age once:
 age_check = lambda age:True if age >= 18 else False
 print(age_check(18))
 
