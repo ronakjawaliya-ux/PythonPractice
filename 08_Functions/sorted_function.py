@@ -1,8 +1,10 @@
+
 # sorted() function = used with iterables
 
 
+
 # ______________________________________________________________________
-#level-01
+#level-01 | ft.iterables
 # ______________________________________________________________________
 
 students = ["Roger","Rocks","Kaido","Linlin","Newgate","Shiki"]
@@ -15,6 +17,8 @@ for i in sorted_students:
 
 # ______________________________________________________________________
 # For sort in reverse order:
+# ______________________________________________________________________
+
 students = ["Roger","Rocks","Kaido","Linlin","Newgate","Shiki"]
 
 sorted_students = sorted(students,reverse=True)
@@ -24,7 +28,7 @@ for i in sorted_students:
 
 
 # ______________________________________________________________________
-# Level-02
+# Level-02 | ft.Lists
 # ______________________________________________________________________
 
 students = [("Roger","S", 53),
@@ -44,6 +48,8 @@ for i in students:
 
 # ______________________________________________________________________
 #for sort in reverse order:
+# ______________________________________________________________________
+
 students = [("Roger","S", 53),
             ("Rocks","SS", 43),
             ("Kaido","A", 59),
@@ -61,6 +67,7 @@ for i in students:
 
 # ______________________________________________________________________
 # if we want to sort on basis of age:
+# ______________________________________________________________________
 
 students = [("Roger","S", 53),
             ("Rocks","SS", 43),
@@ -79,6 +86,8 @@ for i in students:
 
 # ______________________________________________________________________
 # for sort in reverse order:
+# ______________________________________________________________________
+
 students = [("Roger","S", 53),
             ("Rocks","SS", 43),
             ("Kaido","A", 59),
@@ -93,5 +102,45 @@ students.sort(key=age,reverse=True)
 for i in students:
     print(i)
 
+
+# ______________________________________________________________________
+# Level-03 | ft.tuple_of_tuple(iterables)
+# ______________________________________________________________________
+
+students = (("Roger","S", 53),
+            ("Rocks","SS", 43),
+            ("Kaido","A", 59),
+            ("Linlin","A", 68),
+            ("Newgate","S", 72),
+            ("Shiki","S", 73))
+
+
+age = lambda ages:ages[2]
+sorted_students = sorted(students,key=age)
+
+for i in sorted_students:
+    print(i)
+
+
+# ______________________________________________________________________
+# for sort in reverse order:
+# ______________________________________________________________________
+
+students = (("Roger","S", 53),
+            ("Rocks","SS", 43),
+            ("Kaido","A", 59),
+            ("Linlin","A", 68),
+            ("Newgate","S", 72),
+            ("Shiki","S", 73))
+
+
+age = lambda ages:ages[2]
+sorted_students = sorted(students,key=age,reverse=True)
+
+for i in sorted_students:
+    print(i)
+
+
+# ______________________________________________________________________
 
 # ______________________________________________________________________
