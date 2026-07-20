@@ -16,47 +16,58 @@ This repository documents my journey of learning Python programming. I regularly
 * ✅ Operators
 * ✅ String Methods
 * ✅ String Slicing (Indexing)
+* ✅ String Formatting
 * ✅ Math Functions
-* ✅ Lists
-* ✅ Tuples
-* ✅ Sets
-* ✅ Dictionaries
 * ✅ Conditional Statements (`if`, `elif`, `else`)
 * ✅ Match Case
+* ✅ Logical Operators
 * ✅ Loops (`for` & `while`)
+* ✅ Nested Loops
 * ✅ `break`, `continue` & `pass`
 * ✅ Functions
 * ✅ Function Arguments
 * ✅ Variable Scope (Local & Global)
 * ✅ Keyword Arguments
-* ✅ Positional Arguments
 * ✅ Default Arguments
 * ✅ `*args` & `**kwargs`
-* ✅ String Formatting
+* ✅ Lists
+* ✅ Tuples
+* ✅ Sets
+* ✅ Dictionaries
 * ✅ Random Module
 * ✅ Modules
 * ✅ File Handling
 * ✅ Exception Handling
+* ✅ Object-Oriented Programming (Classes & Objects)
+* ✅ Class Variables
+* ✅ Inheritance
+* ✅ Multiple Inheritance
+* ✅ Multilevel Inheritance
+* ✅ `super()`
+* ✅ Polymorphism
+* ✅ Duck Typing
+* ✅ Magic (Dunder) Methods
+* ✅ Decorators
+* ✅ Property (`@property`)
 * ✅ Mini Project: Rock Paper Scissors 🎮
+* ✅ Mini Project: Quiz Game 📝
 
 ---
 
 ## 🚀 Upcoming Topics
 
-* ⏳ Lambda Functions
-* ⏳ Recursion
-* ⏳ Object-Oriented Programming (OOP)
-* ⏳ Classes & Objects
-* ⏳ Inheritance
-* ⏳ Polymorphism
-* ⏳ Encapsulation
-* ⏳ Abstraction
+* ⏳ Abstract Classes
+* ⏳ Interfaces & Advanced OOP Concepts
+* ⏳ Generators
+* ⏳ Iterators
+* ⏳ Multithreading
+* ⏳ Multiprocessing
+* ⏳ Networking
+* ⏳ API Requests
 * ⏳ Virtual Environment (venv)
-* ⏳ Packages & Pip
 * ⏳ Regular Expressions
+* ⏳ GUI Development (Tkinter)
 * ⏳ SQLite Database
-* ⏳ GUI Development
-* ⏳ APIs in Python
 * ⏳ Final Python Projects
 
 ---
@@ -77,12 +88,11 @@ PythonPractice/
 ├── 10_Tuples/
 ├── 11_Sets/
 ├── 12_Dictionaries/
-├── 13_Exception_Handling/
-├── 14_File_Handling/
+├── 13_File_Handling/
+├── 14_Exception_Handling/
 ├── 15_Modules/
 ├── 16_OOP/
 ├── 17_Mini_Projects/
-│   └── Rock_Paper_Scissors.py
 └── README.md
 ```
 
@@ -110,7 +120,7 @@ PythonPractice/
 
 ## 📈 Learning Progress
 
-**Course Progress:** ~50% Complete ✅
+**Course Progress:** ~65% Complete ✅
 
 ---
 
